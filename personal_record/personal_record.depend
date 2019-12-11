@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1576084941 source:d:\nagy zsolt\personal_record\main.cpp
+	<iostream>
+
+1576086023 source:d:\nagy zsolt\personal_record\name.cpp
+	"name.hpp"
+	<iostream>
+
+1576085667 d:\nagy zsolt\personal_record\name.hpp
+	<string>
+
+1576087149 source:d:\nagy zsolt\personal_record\subcontractor.cpp
+	"subcontractor.hpp"
+
+1576087413 d:\nagy zsolt\personal_record\subcontractor.hpp
+	<string>
+
